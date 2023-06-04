@@ -2,7 +2,7 @@
     "name": "rajwebconsulting/php-http-request",
     "description": "a simple PHP HTTP Request handler.",
     "type": "library",
-    "version": "0.1",
+    "version": "1.0",
     "require": {
         "php": "^7.4|^8.0"
     },
