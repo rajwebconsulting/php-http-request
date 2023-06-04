@@ -1,0 +1,22 @@
+{
+    "name": "rajwebconsulting/php-http-request",
+    "description": "a simple PHP HTTP Request handler.",
+    "type": "library",
+    "version": "0.1",
+    "require": {
+        "php": "^7.4|^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rajwebconsulting\\Http\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andre",
+            "email": "bergheimer@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
