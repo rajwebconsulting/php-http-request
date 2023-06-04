@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Rajwebconsulting\Http;
+namespace RajWebConsulting\Http;
 
 abstract class Helper
 {
