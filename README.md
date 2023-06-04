@@ -1,7 +1,7 @@
 ### PHP HTTP Request
 ---
 
-![GitHub top language](https://img.shields.io/github/languages/top/rajwebconsulting/php-http-request?style=for-the-badge) ![Packagist PHP Version](https://img.shields.io/packagist/dependency-v/rajwebconsulting/php-http-request/php?style=for-the-badge) ![Packagist Version](https://img.shields.io/packagist/v/rajwebconsulting/php-http-request?style=for-the-badge) ![GitHub](https://img.shields.io/github/license/rajwebconsulting/php-http-request?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/rajwebconsulting/php-http-request?style=for-the-badge) ![Packagist PHP Version](https://img.shields.io/packagist/dependency-v/rajwebconsulting/php-http-request/php?style=for-the-badge) ![Packagist Version](https://img.shields.io/packagist/v/rajwebconsulting/php-http-request?style=for-the-badge)
 
 a simple PHP library for handling http requests.
 
