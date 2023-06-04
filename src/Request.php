@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Rajwebconsulting\Http;
+namespace RajWebConsulting\Http;
 
-use Rajwebconsulting\Http\Helper;
+use RajWebConsulting\Http\Helper;
 
 class Request extends Helper
 {
