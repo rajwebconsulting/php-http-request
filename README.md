@@ -25,9 +25,9 @@ use RajWebConsulting\Http\Request;
 
 ##### Methods
 
-| Attribute | Description | Type | Required | 
-| --- | --- | --- | --- | --- |
-| $key | Parameter key | string | Yes |
+| Attribute | Description   | Type      | Required  | 
+|   :---:   |     :---:     |   :---:   |   :---:   |
+|   $key    | Parameter key | string    | Yes       |
 
 - Get method
 
